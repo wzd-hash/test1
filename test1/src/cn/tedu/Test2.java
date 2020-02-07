@@ -1,1 +1,10 @@
-public static void mian(String args[]){}
+package cn.tedu;
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		System.out.println(1);
+
+	}
+
+}
